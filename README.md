@@ -4,10 +4,10 @@
 
 ## Presentation
 <div align="center">
-  <p> Hi ! <em>(Another time)</em> :wave: My name is Elian Arnaud.</p>
+  <p> Hi ! :wave: My name is Elian Arnaud.</p>
   <p> :books: I'm a French student at the IUT Nancy-Charlemagne since 2021 :books:</p>
-  <p> :rocket: After my degree, I think I will enter the professional world :rocket:</p>
-  <p> :telescope: I'm currently learning : JavaScript, PHP and Eloquent (Sympfony) for PHP :telescope:</p>
+  <p> :rocket: After my degree, I think I will do a Master to be a project manager (probably MIAGE) :rocket:</p>
+  <p> :telescope: I'm currently learning : Vue.js, PHP and Eloquent by using micro service architecture :telescope:</p>
   <p> :eyes: A little part of my works are on public :eyes: </p>
-  <p> :tv: You can see my portfolio by cliking <a href="https://ooneal-portfolio.000webhostapp.com/?lang=en" target="_blank">right here</a> :tv: </p>
+  <p> :tv: You can see my outdated portfolio by cliking <a href="https://ooneal-portfolio.000webhostapp.com/?lang=en" target="_blank">right here</a> :tv: </p>
 </div>
