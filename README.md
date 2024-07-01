@@ -9,5 +9,4 @@
   <p> :rocket: After my degree, I think I will do a Master to be a project manager (probably MIAGE) :rocket:</p>
   <p> :telescope: I'm currently learning : Vue.js, PHP and Eloquent by using micro service architecture :telescope:</p>
   <p> :eyes: A little part of my works are on public :eyes: </p>
-  <p> :tv: You can see my outdated portfolio by cliking <a href="https://ooneal-portfolio.000webhostapp.com/?lang=en" target="_blank">right here</a> :tv: </p>
 </div>
